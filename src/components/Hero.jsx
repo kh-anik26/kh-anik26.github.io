@@ -1,6 +1,6 @@
 function Hero() {
   const name = "Kamrul Hassan Anik";
-  const role = "Full-Stack Developer";
+  const role = "Frontend Developer";
 
   return (
     <section

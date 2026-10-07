@@ -16,7 +16,10 @@ dist-ssr
 node_modules/
 /.pnp
 .pnp.js
+
 .env
+.env.local
+.env.*.local
 
 # Editor directories and files
 .vscode/*
