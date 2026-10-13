@@ -41,7 +41,7 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
-              className="text-gray-400 hover:text-white transition-colors"
+              className="text-gray-400 hover:text-blue-600 transition-colors"
             >
               <IoLogoLinkedin size={22} />
             </a>
@@ -52,7 +52,7 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Instagram"
-              className="text-gray-400 hover:text-white transition-colors"
+              className="text-gray-400 hover:text-red-500 transition-colors"
             >
               <IoLogoInstagram size={22} />
             </a>
@@ -63,7 +63,7 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Facebook"
-              className="text-gray-400 hover:text-white transition-colors"
+              className="text-gray-400 hover:text-blue-600 transition-colors"
             >
               <IoLogoFacebook size={22} />
             </a>
